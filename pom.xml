@@ -35,6 +35,6 @@
 			<modules>
 				<module>features</module>
 			</modules>
-		<profile>
+		</profile>
 	</profiles>
 </project>
