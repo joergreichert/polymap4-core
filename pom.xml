@@ -20,7 +20,7 @@
 			<modules>
 				<module>extras</module>
 			</modules>
-		<profile>
+		</profile>
 		<profile>
 			<id>plugins</id>
 			<activation>
@@ -29,7 +29,7 @@
 			<modules>
 				<module>plugins</module>
 			</modules>
-		<profile>
+		</profile>
 		<profile>
 			<id>features</id>
 			<modules>
