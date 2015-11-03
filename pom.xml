@@ -14,9 +14,27 @@
 	<packaging>pom</packaging>
 	<version>4.0.0-SNAPSHOT</version>
 	
-	<modules>
-		<module>extras</module>
-		<module>plugins</module>
-		<!--module>features</module-->
-	</modules>
+	<profiles>
+		<profile>
+			<id>extras</id>
+			<modules>
+				<module>extras</module>
+			</modules>
+		<profile>
+		<profile>
+			<id>plugins</id>
+			<activation>
+      				<activeByDefault>true</activeByDefault>
+			</activation>
+			<modules>
+				<module>plugins</module>
+			</modules>
+		<profile>
+		<profile>
+			<id>features</id>
+			<modules>
+				<module>features</module>
+			</modules>
+		<profile>
+	</profiles>
 </project>
