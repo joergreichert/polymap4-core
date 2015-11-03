@@ -16,13 +16,13 @@
 	
 	<profiles>
 		<profile>
-			<id>extras</id>
+			<id>core-extras</id>
 			<modules>
 				<module>extras</module>
 			</modules>
 		</profile>
 		<profile>
-			<id>plugins</id>
+			<id>core-plugins</id>
 			<activation>
       				<activeByDefault>true</activeByDefault>
 			</activation>
@@ -31,7 +31,7 @@
 			</modules>
 		</profile>
 		<profile>
-			<id>features</id>
+			<id>core-features</id>
 			<modules>
 				<module>features</module>
 			</modules>
