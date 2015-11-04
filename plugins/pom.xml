@@ -21,6 +21,7 @@
 			</activation>
 			<modules>
 				<module>org.polymap.core</module>
+				<module>org.polymap.service.fs</module>
 				<module>org.polymap.core.recordstore</module>
 			</modules>
 		</profile>
@@ -30,6 +31,8 @@
 				<module>org.polymap.core.catalog</module>
 				<module>org.polymap.core.data</module>
 				<module>org.polymap.core.data.wms</module>
+				<module>org.polymap.core.data.refine</module>
+				<module>org.polymap.core.data.rs</module>
 				<module>org.polymap.core.data.shapefile</module>
 			</modules>
 		</profile>
