@@ -28,9 +28,16 @@
 						<exclude>org/polymap/core/project/operations/SetLayerBoundsOperation.java</exclude>
 						<exclude>org/polymap/core/project/operations/SetProcessorConfigurationsOperation.java</exclude>
 						<exclude>org/polymap/core/project/operations/SetPropertyOperation.java</exclude>
-						<exclude>org/polymap/core/project/ui/**/*.java</exclude>
+						<exclude>org/polymap/core/project/ui/EntityModificationDecorator.java</exclude>
 						<exclude>org/polymap/core/project/ui/dnd/**/*.java</exclude>
-						<exclude>org/polymap/core/project/ui/layer/**/*.java</exclude>
+						<exclude>org/polymap/core/project/ui/layer/LayerLabelProvider.java</exclude>
+						<exclude>org/polymap/core/project/ui/layer/LayerStatusDecorator.java</exclude>
+						<exclude>org/polymap/core/project/ui/layer/LayerStatusLineAdapter.java</exclude>
+						<exclude>org/polymap/core/project/ui/layer/LayerVisibleStatusAction.java</exclude>
+						<exclude>org/polymap/core/project/ui/layer/MapLayersView.java</exclude>
+						<exclude>org/polymap/core/project/ui/layer/RemoveLayerAction.java</exclude>
+						<exclude>org/polymap/core/project/ui/layer/SortLayerDropAction.java</exclude>
+						<exclude>org/polymap/core/project/ui/layer/ZPriorityLayerSorter.java</exclude>
 						<exclude>org/polymap/core/project/ui/project/**/*.java</exclude>
 						<exclude>org/polymap/core/project/ui/properties/**/*.java</exclude>
 					</excludes>
