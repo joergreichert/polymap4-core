@@ -31,6 +31,7 @@
 				<module>org.polymap.core.catalog</module>
 				<module>org.polymap.core.data</module>
 				<module>org.polymap.core.data.wms</module>
+				<module>org.polymap.core.data.raster</module>
 				<module>org.polymap.core.data.refine</module>
 				<module>org.polymap.core.data.rs</module>
 				<module>org.polymap.core.data.shapefile</module>
