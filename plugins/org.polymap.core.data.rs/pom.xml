@@ -11,4 +11,5 @@
 
 	<artifactId>org.polymap.core.data.rs</artifactId>
 	<packaging>eclipse-plugin</packaging>
+	<version>4.0.0-SNAPSHOT</version>
 </project>
