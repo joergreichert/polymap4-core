@@ -11,4 +11,5 @@
 
 	<artifactId>org.eclipse.equinox.security</artifactId>
 	<packaging>eclipse-plugin</packaging>
+	<version>1.0.201-SNAPSHOT</version>
 </project>

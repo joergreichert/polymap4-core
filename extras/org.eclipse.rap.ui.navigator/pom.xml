@@ -11,4 +11,5 @@
 
 	<artifactId>org.eclipse.rap.ui.navigator</artifactId>
 	<packaging>eclipse-plugin</packaging>
+	<version>3.5.1-SNAPSHOT</version>
 </project>

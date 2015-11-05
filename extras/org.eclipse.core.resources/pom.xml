@@ -11,4 +11,5 @@
 
 	<artifactId>org.eclipse.core.resources</artifactId>
 	<packaging>eclipse-plugin</packaging>
+	<version>3.5.101-SNAPSHOT</version>
 </project>
