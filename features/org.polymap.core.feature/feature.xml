@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="org.polymap.core.feature"
-      label="Polymap3 Core System"
+      label="Polymap4 Core System"
       version="4.0.0.qualifier"
       provider-name="polymap.org"
       os="linux,win32"
